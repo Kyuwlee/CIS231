@@ -1,0 +1,19 @@
+{
+	"folders": [{
+			"path": "."
+		},
+		{
+			"path": "../../../../../Users/kyulee/Java"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			".",
+			"CodeTest",
+			"FileIO",
+			"Module4",
+			"Module5"
+		],
+		"java.dependency.packagePresentation": "hierarchical"
+	}
+}
